@@ -1,0 +1,19 @@
+TEST CLIENT CONSOLE — User Inputs,,,,,
+Core trip constraints and 15 preference answers. Advanced founder controls are optional.,,,,,
+,,,,,
+Trip constraint,User answer,,Preference,Preference position (1–10),How the scale works
+Total budget,"£3,000",,Beach,10,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Travellers,2,,Culture,8,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Nights,4,,Food,2,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Rooms required,1,,Nightlife,2,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Departure month,4,,Nature,9,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Budget buffer (advanced),0,,Adventure,9,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Minimum season score (advanced),1,,Relaxation,10,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Max return flight pp (advanced; £0 = no cap),0,,Romance,7,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Excluded region (advanced; blank = none),,,Family,10,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+Allow UK staycations?,No,,Solo,1,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+,,,Luxury,7,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+,,,Hidden gem,8,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+,,,Activity level,8,"1 = strongly prefer a restful, low-activity trip; 5 = neutral; 10 = strongly prefer an active itinerary."
+,,,Good shopping,7,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
+,,,Safety,10,1 = strongly prefer less / avoid; 5 = neutral; 10 = strongly prefer more. Influence increases toward either extreme.
